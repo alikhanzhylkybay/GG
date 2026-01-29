@@ -1,3 +1,2 @@
-a=input("")
-b=input("") 
-print(a +"***" +b)
+name=input("")
+print("Hello," + name + "!")
