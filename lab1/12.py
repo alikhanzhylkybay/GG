@@ -1,1 +1,2 @@
-print("nigga")
+name=input("")
+print("Hello," + name + "!")
