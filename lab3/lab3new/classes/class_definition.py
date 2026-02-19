@@ -1,5 +1,5 @@
 class student:
-    name="Akylbek"
+    name="Alikhan"
     age=18
     major="Automation"
 
